@@ -3,6 +3,7 @@ import requests
 import streamlit as st
 from streamlit_lottie import st_lottie
 
+
 #Find more emojis here:https://www.webfx.com/tools/emoji-cheat-sheet/
 st.set_page_config(page_title="My Webpage",page_icon=":tada:", layout="wide")
 
